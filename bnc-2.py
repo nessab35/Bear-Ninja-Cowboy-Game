@@ -17,6 +17,7 @@ def open_message():
               The computer chooses a player. 
               Everytime you win, you gain +1.
               If you lose, you lose -1
+              For DRAW!, you recieve no points
               Bear eats Ninja, Ninja defeats Cowboy, and Cowboy shoots Bear.
               ''')
 
